@@ -4,7 +4,7 @@
 
 Thành viên:
 * [x] **1412558** Tên sinh viên 1 (yamakuga)
-* [ ] **1412657** Nguyễn Tường Vy (1412657)
+* [x] **1412657** Nguyễn Tường Vy (1412657)
 * [ ] **MSSV3** Tên sinh viên 2 (tên tài khoản github)
 
 ## Yêu cầu
