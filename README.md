@@ -23,7 +23,7 @@ Yêu cầu **bắt buộc**
 * [x] Tạo tài khoản cho các nhân viên trong bảng Nhân Viên. Tên tài khoản trùng với mã nhân viên. Tạo ít nhất 5 tài khoản cho mỗi vị trí: trưởng dự án, trưởng phòng, trưởng chi nhánh, nhân viên, giám đốc và ít nhất 5 dòng cho các bảng dữ liệu còn lại. (**MSSV**)
 * [x] Tạo các role cho các vị trí phù hợp cho công ty. (**MSSV**)
 * [ ] Giải pháp mã hóa thông tin lương để chỉ nhân viên được phép xem lương của mình. (**MSSV**)
-* [ ] Xây dựng giải pháp để nhân viên và trưởng dự án xác định thông tin lương có đúng là do trưởng dự án thiết lập không. (**MSSV**)
+* [ ] Xây dựng giải pháp để nhân viên và trưởng dự án xác định thông tin lương có đúng là do trưởng dự án thiết lập không. (**1412558**)
 * [ ] Chỉ trưởng dự án được phép xem và cập nhật thông tin chi tiêu của dự án của mình. (**MSSV**)
 * [x] Xây dựng giải pháp cho phép trưởng dự án mã hóa thông tin chi tiêu của dự án của mình và chỉ cho phép một số người dùng nhất định giải mã thông tin này. (**1412558**)
 
@@ -33,9 +33,9 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 ## Demo
 
-
+Báo cáo Security_2: https://github.com/ATBMHTTT-2017/lab02-1412558-1412657-1412140/wiki/Security_2_1412558
+Báo cáo Security_4: https://github.com/ATBMHTTT-2017/lab02-1412558-1412657-1412140/wiki/Security_4_1412558
 Demo Security_4
-Báo cáo : https://github.com/ATBMHTTT-2017/lab02-1412558-1412657-1412140/wiki/Security_4_1412558
 ![](http://i.imgur.com/1ccm4kC.gif)
 
 
