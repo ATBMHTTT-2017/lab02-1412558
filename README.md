@@ -35,7 +35,8 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 
 Demo Security_4
-![http://i.imgur.com/1ccm4kC.gifv]
+Báo cáo : https://github.com/ATBMHTTT-2017/lab02-1412558-1412657-1412140/wiki/Security_4_1412558
+![](http://i.imgur.com/1ccm4kC.gif)
 
 
 
