@@ -1,11 +1,11 @@
-# BT-ATBMHTTT-2 - *Name of your app*
+﻿# BT-ATBMHTTT-2 - *Name of your app*
 
 **Name of your app** là một bài tập 2 tại môn ATBMHTTT. Bài tập yêu cầu sinh viên tạo cơ sở dữ liệu, mã hóa theo các yêu cầu.
 
 Thành viên:
 * [x] **1412558** Phạm Quốc Toàn (yamakuga)
 * [x] **1412657** Nguyễn Tường Vy (1412657)
-* [ ] **MSSV3** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1412140** Nguyễn Thị Thu Hà (ThuHa96)
 
 ## Yêu cầu
 
@@ -22,7 +22,7 @@ Yêu cầu **bắt buộc**
 * [x] Viết script thêm dữ liệu (**MSSV**)
 * [x] Tạo tài khoản cho các nhân viên trong bảng Nhân Viên. Tên tài khoản trùng với mã nhân viên. Tạo ít nhất 5 tài khoản cho mỗi vị trí: trưởng dự án, trưởng phòng, trưởng chi nhánh, nhân viên, giám đốc và ít nhất 5 dòng cho các bảng dữ liệu còn lại. (**MSSV**)
 * [x] Tạo các role cho các vị trí phù hợp cho công ty. (**MSSV**)
-* [ ] Giải pháp mã hóa thông tin lương để chỉ nhân viên được phép xem lương của mình. (**MSSV**)
+* [ ] Giải pháp mã hóa thông tin lương để chỉ nhân viên được phép xem lương của mình. (**1412140**)
 * [ ] Xây dựng giải pháp để nhân viên và trưởng dự án xác định thông tin lương có đúng là do trưởng dự án thiết lập không. (**1412558**)
 * [x] Chỉ trưởng dự án được phép xem và cập nhật thông tin chi tiêu của dự án của mình. (**1412657**)
 * [x] Xây dựng giải pháp cho phép trưởng dự án mã hóa thông tin chi tiêu của dự án của mình và chỉ cho phép một số người dùng nhất định giải mã thông tin này. (**1412558**)
