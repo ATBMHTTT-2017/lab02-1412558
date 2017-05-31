@@ -13,8 +13,8 @@ Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm v
 
 Yêu cầu **GIT**
 * [x] Có sử dụng GIT.
-* [ ] Sử dụng GIT theo Centralized Workflow.
-* [x] Sử dụng GIT theo Feature Branch Workflow.
+* [x ] Sử dụng GIT theo Centralized Workflow.
+* [] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **bắt buộc**
@@ -33,11 +33,11 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 ## Demo
 
-Link ảnh GIF demo ứng dụng:
 
-![Video Walkthrough](demo.gif)
+Demo Security_4
+![http://i.imgur.com/1ccm4kC.gifv]
 
-Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
+
 
 
 ## License
